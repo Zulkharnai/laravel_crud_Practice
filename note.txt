@@ -1,0 +1,24 @@
+urdu search not working  (Done)
+chapter managment --> chapter --> when file create after create file field not getting empty
+chapter managment --> chapter --> when we are updating the chapter not file not coming for update.
+chapter managment --> chapter --> when search the chapter only chapter name coming nothing else about the same chapter. (Done)
+chapter managment --> chapter --> chapter show last page coming empty(Done)
+
+chapter managment --> topic --> when we are updating the topic not file not coming for update.
+chapter managment --> topic --> youtube link not chacking.
+chapter managment --> topic --> when search the topic only topic name coming nothing else about the same topic.(Done)
+
+school managment --> school --> ID need to cut from the list (Done)
+
+master --> board --> search not working.(Done)
+masters --> board --> ID need to be cut from the list.(Done)
+masters --> board --> there no pagination to show list.(Done)
+
+masters --> class --> ID not require.(Done)
+masters --> class --> there no pagination to show list.(Done)
+masters --> class --> there no old data showing in list.(Done)
+
+menu not working.
+profile can't see.
+
+
